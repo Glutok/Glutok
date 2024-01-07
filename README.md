@@ -29,8 +29,11 @@ Here are some ideas to get you started:
 В ближайшее время планирую углубить свои знания в машинном обучении, SQL, математике (в части, необходимой для машинного обучения).
 
 **Databases:**
+
 Python, sklearn, pandas, numpy, SQL, catboost, jupyter notebook, statsmodels, tensorflow, keras, matplotlib
 
 Контакты:
+
 https://t.me/Dmitriy_Glutok
+
 dalekseenko777@yandex.ru
